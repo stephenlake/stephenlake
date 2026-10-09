@@ -1,1 +1,1 @@
-🌵
+![](./cloudcake-banner.svg)
